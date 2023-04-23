@@ -1,0 +1,6 @@
+customhost = "comps-9177-9204-9205.c4xmkzr0iamo.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "comps-9177-9204-9205"
+customdb = "comps-9177-9204-9205"
+custombucket = "comps-9177-9204-9205"
+customregion = "ap-south-1"
